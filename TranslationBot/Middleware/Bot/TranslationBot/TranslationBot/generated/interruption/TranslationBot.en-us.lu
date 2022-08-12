@@ -1,0 +1,45 @@
+
+> LUIS application information
+> !# @app.versionId = 0.1
+> !# @app.culture = en-us
+> !# @app.luis_schema_version = 3.2.0
+
+
+> # Intent definitions
+
+# PVA_Skill
+- When are you closed
+- When are you open
+- Store hours
+- Daily open hours
+- Are there any stores around the area
+- Check store location
+- Closest store near me
+- Find me your nearest location
+- Store near me
+- Buy items
+- Buy online
+- Buy product
+- Purchase item
+- Order product
+- What is the best product for me
+- I want a laptop powerful enough for gaming
+- I want a business laptop
+- What is a product for the home
+- I am a home user
+
+
+> # Entity definitions
+
+
+> # PREBUILT Entity definitions
+
+
+> # Phrase list definitions
+
+
+> # List entities
+
+> # RegEx entities
+
+
